@@ -1,0 +1,10 @@
+opencv-python
+numpy
+sounddevice
+pillow
+ultralytics
+pyttsx3
+mss
+reportlab
+matplotlib
+flask
